@@ -1,0 +1,10 @@
+/vendor/
+node_modules/
+writable/
+*.log
+.env
+.idea/
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
